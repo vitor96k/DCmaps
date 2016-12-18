@@ -6,5 +6,5 @@ Desenvolvimento de um programa que insere quadras, casas, estabelecimentos, hidr
 
 Utiliza arvore binaria, tabela hash e grafo.
 
-Explicação do Codigo: https://www.youtube.com/watch?v=9k-FN3ptIRk    <bbr />
+Explicação do Codigo: https://www.youtube.com/watch?v=9k-FN3ptIRk    <br />
 Execução do Codigo: https://www.youtube.com/watch?v=SKbt3VCx4TM
